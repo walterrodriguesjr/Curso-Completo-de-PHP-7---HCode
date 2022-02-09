@@ -24,7 +24,7 @@ SEÇÃO 2: ENTENDENDO CONTROLE DE VERSÃO
 
 11-github vs bitbucker 
 
-12-editando arquivos remotos e resolvendo conflitos
+12-editando arquivos remotos e resolvendo conflito
 
 SEÇÃO 3: CONHECENDO A LINGUAGEM PHP
 
