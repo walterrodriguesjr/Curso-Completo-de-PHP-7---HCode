@@ -1,5 +1,6 @@
 SEÇÃO 1: INTRODUÇÃO AO PHP
 
+
 1-boas vindas
 
 2-como funciona a plataforma da udemy 
@@ -14,7 +15,9 @@ SEÇÃO 1: INTRODUÇÃO AO PHP
 
 7-a arquitetura cliente/servidor 
 
+
 SEÇÃO 2: ENTENDENDO CONTROLE DE VERSÃO 
+
 
 8-o que é GIT? 
 
@@ -26,5 +29,11 @@ SEÇÃO 2: ENTENDENDO CONTROLE DE VERSÃO
 
 12-editando arquivos remotos e resolvendo conflito
 
+
 SEÇÃO 3: CONHECENDO A LINGUAGEM PHP
+
+
+13-utilizando variáveis com PHP 
+
+14-conhecendo os tipos de dados (CONTINUAR NO 16 MINUTOS!!!)
 
