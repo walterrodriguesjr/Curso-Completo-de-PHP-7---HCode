@@ -35,5 +35,19 @@ SEÇÃO 3: CONHECENDO A LINGUAGEM PHP
 
 13-utilizando variáveis com PHP 
 
-14-conhecendo os tipos de dados (CONTINUAR NO 16 MINUTOS!!!)
+14-conhecendo os tipos de dados 
+
+15-variáveis pré-definidas 
+
+16-escopo de variável
+
+17-conhecendo os operadores do PHP 
+
+18-strings em PHP 
+
+19-incluindo arquivos com include e require 
+
+
+SEÇÃO 4: ESTRUTURAS DE CONTROLE E LAÇOS DE REPETIÇÃO
+
 

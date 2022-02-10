@@ -39,3 +39,24 @@ if (isset($nome, $sobreNome, $idade, $altura, $ensinoSuperior)) {
 echo "<hr>";
 
                         /* TIPOS COMPOSTOS */
+
+$frutas = array("Abacaxi", "Maçã", "Laranja", "Pera");   
+echo "<pre>";
+print_r($frutas);
+echo "</pre>";
+
+echo "<hr>";
+
+$anoNascimento = new DateTime();
+var_dump($anoNascimento);
+echo "<hr>";
+
+$arquivo = fopen("14.php", "r");
+var_dump($arquivo);
+echo "<hr>";
+
+$nulo = null;
+$vazio = "";
+
+
+
