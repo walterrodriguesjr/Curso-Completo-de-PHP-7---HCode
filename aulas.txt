@@ -51,3 +51,71 @@ SEÇÃO 3: CONHECENDO A LINGUAGEM PHP
 SEÇÃO 4: ESTRUTURAS DE CONTROLE E LAÇOS DE REPETIÇÃO
 
 
+20-estruturas condicionais - if, leseif, else 
+
+21-switch case
+
+22-For
+
+23-foreach
+
+24-while 
+
+
+SEÇÃO 5: ARRAYS EM PHP 
+
+
+25-arrays em PHP
+
+26-JSON
+
+27-constantes e arrays constantes
+
+
+SEÇÃO 6: SESSÃO NO PHP 
+
+
+29-criando e entendendo sesssões 
+
+30-id de sessão
+
+31-funções para sessão
+
+
+SEÇÃO 7: TRABALHANDO COM FUNÇÕES EM PHP
+
+32-criando funções de usuário
+
+33-parâmetros de funções
+
+34-parâmetros po valor x por referencia
+
+35-funções no PHP 7 novidades 
+
+36-funções recursivas
+
+37-funções anônimas
+
+
+SEÇÃO 8: TRABALHANDO COM DATA E HORA NO PHP 
+
+
+38-função date() e função time()
+
+39-definindo a configuração regional com setlocale()
+
+40-classe DateTime
+
+
+SEÇÃO 9: PROGRAMAÇÃO ORIENTADA A OBJETOS - INTRODUÇÃO 
+
+41-conceitos de programação orietada a objetos 
+
+42-criando uma classe 
+
+43-atributos e métodos 
+
+44-métodos estáticos
+
+45-métodos mágicos 
+
