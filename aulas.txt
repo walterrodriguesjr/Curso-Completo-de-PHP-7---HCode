@@ -119,3 +119,7 @@ SEÇÃO 9: PROGRAMAÇÃO ORIENTADA A OBJETOS - INTRODUÇÃO
 
 45-métodos mágicos 
 
+46-encapsulamento
+
+47-herança 
+
