@@ -132,7 +132,24 @@ SEÇÃO 9: PROGRAMAÇÃO ORIENTADA A OBJETOS - INTRODUÇÃO
 
 SEÇÃO 10: ACESSANDO O BANCO DE DADOS COM WORKBENCH
 
+
 53-acessando o banco de dados com workbench 
 
 54-visão geral do MySQL
+
+
+SEÇÃO 11: BANCO DE DADOS-MYSQLI
+
+55-classe MySQLi eo PHP 7
+
+
+SEÇÃO 12: BANCO DE DADOS-PDO 
+
+
+56-conectando o PHP 7 com MySQL usando PDO
+
+57-
+
+
+
 
