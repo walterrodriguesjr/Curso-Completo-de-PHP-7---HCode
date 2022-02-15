@@ -150,6 +150,18 @@ SEÇÃO 12: BANCO DE DADOS-PDO
 
 57-instalando o SQL Server Express
 
+58-conectando o php7 com sql server ysando pdo
+
+59-instalando sql server e conectando com php
+
+60-pdo-inserindo dados no banco
+
+61-pdo-alterando dados no banco
+
+62-pdo-apagando dados no banco
+
+63-pdo-usando transações
+
 
 
 
