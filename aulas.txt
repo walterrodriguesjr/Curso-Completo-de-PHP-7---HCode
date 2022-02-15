@@ -148,7 +148,7 @@ SEÇÃO 12: BANCO DE DADOS-PDO
 
 56-conectando o PHP 7 com MySQL usando PDO
 
-57-
+57-instalando o SQL Server Express
 
 
 
