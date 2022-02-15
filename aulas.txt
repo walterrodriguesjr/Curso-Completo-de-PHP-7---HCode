@@ -132,3 +132,7 @@ SEÇÃO 9: PROGRAMAÇÃO ORIENTADA A OBJETOS - INTRODUÇÃO
 
 SEÇÃO 10: ACESSANDO O BANCO DE DADOS COM WORKBENCH
 
+53-acessando o banco de dados com workbench 
+
+54-visão geral do MySQL
+
